@@ -1,0 +1,5 @@
+PyUserInput
+mss
+pynput
+numpy
+opencv-python
