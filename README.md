@@ -1,5 +1,7 @@
 # Aim Trainer Bot
 
+![Aim Trainer Demo](https://i.imgur.com/GEtJjas.gif)
+
 Bot for the Human Benchmark aim trainer.
 
 ## Installation
@@ -11,9 +13,11 @@ pip install -r requirements.txt
 ```
 
 ## Running
+
 This project was created using [Python 3.9.5](https://www.python.org/downloads/release/python-395/)
+
 ```bash
 python main.py
 ```
-Type the vertical bar key ("|") to start the program
 
+Type the vertical bar key ("|") to start the program
